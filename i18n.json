@@ -1,0 +1,8 @@
+{
+  "locales": ["vi"],
+  "defaultLocale": "vi",
+  "logBuild": false,
+  "pages": {
+    "*": ["common"]
+  }
+}
